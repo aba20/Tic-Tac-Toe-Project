@@ -3,7 +3,7 @@ body{
 }
 
 
-h1 {
+p {
     align-items: center;
     justify-content: space-between;
     height: 50%;
@@ -16,6 +16,7 @@ h1 {
     padding-right: 1%;
     letter-spacing: 10px;
     font-family: fantasy;
+    font-size: 50px;
 }
 
 
@@ -65,4 +66,19 @@ h1 {
     letter-spacing: 5px;
     align-items: center;
     font-family: fantasy;
+}
+
+@media only screen and (max-width: 768px){
+    p{
+        font-size: 50px;
+    }
+
+    .items{
+        font-size: 40px;
+    }
+
+    #replay{
+        font-size: 30px;
+    } 
+
 }
