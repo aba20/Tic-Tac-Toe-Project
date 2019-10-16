@@ -8,7 +8,7 @@ User Story:
     6.	When the game is over, or the winner is announced the squares should not be allow the user to press again unless he refreshes the page or press “Play again” button.
 
 Wireframe:
-    https://wireframe.cc/iVXu9D
+    This is how I imagined the would be before I started working on it.   https://wireframe.cc/iVXu9D
 
 
 HTML:
@@ -27,4 +27,4 @@ My Favorit Function:
     I like the way my check function goes through every individual array and comes back with either a win or just continue to the other if check.
 
 Problems Faced in the process:
-    I had a small problem that was easy to fix but I did not know what the solution was until I asked. The problem was when the player wins the winning message would appear before the either X or O appear in the winning square. So, the solution was simpler than I thought, it was just time problem. Timeout was put before alert would appear.
+    I had a small problem that was easy to fix but I did not know what the solution was until I asked. The problem was when the player wins the winning message would appear before the either X or O appear in the winning square. So, the solution was simpler than I thought, it was just time problem. Timeout was put before alert would appear. 
