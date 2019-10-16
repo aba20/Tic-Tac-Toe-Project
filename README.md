@@ -15,14 +15,13 @@ HTML:
     1.	I divided it onto sections so I can make it easier to control items individually. 
     2.	I linked JavaScript, CSS, Animation links to control the page.
 
-
 CSS:
     1. I styles every section individually to make it look better.
 
 JavaScript:
-     1. There is a nested loop that goes through an array of arrays, which are winning chances, these two for loops goes through the array vertically and horizontally.
-     2. I used to check to player winnings a function that contains multiple if statements that checks whether the chosen position of the game equals to any of the winning chances. Pluse I also added animation to make it more fun.
-     3. I made a function for hover when the user hovers over any square on the game it will appear in other color.
+    1.	There is a nested loop that goes through an array of arrays, which are winning chances, these two for loops goes through the array vertically and horizontally.
+    2. I used to check to player winnings a function that contains multiple if statements that checks whether the chosen position of the game equals to any of the winning chances. Pluse I also added animation to make it more fun.
+    3. I made a function for hover when the user hovers over any square on the game it will appear in other color.
 
 My Favorit Function: 
     I like the way my check function goes through every individual array and comes back with either a win or just continue to the other if check.
